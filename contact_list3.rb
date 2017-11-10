@@ -1,5 +1,4 @@
 require 'pry'
-require 'colorize'
 
 @contact_array = []
 
